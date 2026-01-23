@@ -13,7 +13,7 @@ I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan Un
 
 - **M.S. in Smart Factory Convergence**, Sungkyunkwan University *(2026 - Present)*
 
-- **B.S. in Robot Automation Engineering**, Dongyang Mirae University *(2017- 2023)*
+- **B.S. in Robot Automation Engineering**, Dongyang Mirae University *(2017- 2024)*
   
 ---
 
