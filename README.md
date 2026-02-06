@@ -37,9 +37,11 @@ I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan Un
 
 | Date       | Title & Topic                                                                                                           | Link  |
 |------------|-------------------------------------------------------------------------------------------------------------------------|-------|
-| 2025-09-16 | Imagenet Classification with Deep Convolutional Neural Networks                                                         | [Link](https://www.youtube.com/watch?v=W3qNLUJw8bc) |
-| 2025-10-01 | TAIL-MIL: Time-Aware and Instance-Learnable Multiple Instance Learning for Multivariate Time Series Anomaly Detection   | [Link](https://www.youtube.com/watch?v=h5pdC_uwC1Q) |
-| 2025-11-06 | Transformer-based multivariate time series anomaly detection using inter-variable attention mechanism                   | [Link](https://www.youtube.com/watch?v=3jepgzRtm6I) |
+| 2025-09    | Imagenet Classification with Deep Convolutional Neural Networks                                                         | [Link](https://www.youtube.com/watch?v=W3qNLUJw8bc) |
+| 2025-10    | TAIL-MIL: Time-Aware and Instance-Learnable Multiple Instance Learning for Multivariate Time Series Anomaly Detection   | [Link](https://www.youtube.com/watch?v=h5pdC_uwC1Q) |
+| 2025-11    | Transformer-based multivariate time series anomaly detection using inter-variable attention mechanism                   | [Link](https://www.youtube.com/watch?v=3jepgzRtm6I) |
+| 2026-01    | High-Quality Pseudo-Labeling for Point Cloud Segmentation With Scene-Level Annotation                                   | [Link](https://www.youtube.com/watch?v=fGxO4L5YT2c) |
+| 2026-02    | Search3D: Hierarchical Open-Vocabulary 3D Segmentation                                                                  | [Link](https://www.youtube.com/watch?v=ZbRZCF8k0EI) |
 
 ---
 
