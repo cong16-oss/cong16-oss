@@ -58,7 +58,7 @@ I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan Un
 
 ### Programming, Machine Learning & Deep Learning 
 - **Point Cloud Segmentation**
-- **PyTorch, OpenCV**
+- **PyTorch, TensorFlow, OpenCV**
 - **Python, C#, C**
 
 ### Systems & DevOps
