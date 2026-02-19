@@ -63,7 +63,7 @@ I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan Un
 
 ### Systems & DevOps
 - **Git & GitHub** 
-- **Linux (Ubuntu)**
+- **Linux (Ubuntu, WSL)**
 
 ### Hardware
 - **UR robot, Dosan robot**
